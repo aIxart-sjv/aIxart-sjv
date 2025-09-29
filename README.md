@@ -23,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sjv-007&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjv-007&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=radical)  
 
 ---
 
