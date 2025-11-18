@@ -15,42 +15,14 @@
 </p>
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
-### 🔍 Phishing Email Detector
-A machine learning–based tool to classify phishing emails.
-🔗 https://github.com/alxart-sjv/PhishingEmailDetector
-
----
-
-### 🎥 Face Recognition CCTV
-Face recognition system designed to identify people from CCTV footage using deep learning.
-🔗 https://github.com/alxart-sjv/FaceRecognition_CCTV
-
----
-
-### 🌐 Face Recognition CCTV – Web Version
-A web-based version of the face recognition system for live CCTV feeds.
-🔗 https://github.com/alxart-sjv/FaceRecognition_CCTV_Web
-
----
-
-### 🧠 AI Medical Scan Analyzer
-AI model to analyze MRI/X-Ray/CT scans and provide preliminary insights.
-🔗 https://github.com/alxart-sjv/AI_Medical_Scan_Analyzer
-
----
-
-### 🎥 Anomaly Detection in CCTV (SIH Project)
-AI system that detects anomalies in CCTV footage for security monitoring.
-🔗 https://github.com/alxart-sjv/Anomoly_CCTV
-
----
-
-### 🎥 Anomaly Detection CCTV v0.2
-Optimized version of anomaly detection with improved accuracy and new datasets.
-🔗 https://github.com/alxart-sjv/Anomoly_CCTV_00.2
-
+- [🔍 Phishing Email Detector](https://github.com/alxart-sjv/PhishingEmailDetector) – ML-based tool to detect phishing emails  
+- [🎥 Face Recognition CCTV](https://github.com/alxart-sjv/FaceRecognition_CCTV) – Face recognition system for CCTV footage  
+- [🌐 FaceRecognition_CCTV_Web](https://github.com/alxart-sjv/FaceRecognition_CCTV_Web) – Web-based face recognition system for CCTV  
+- [🧠 AI Medical Scan Analyzer](https://github.com/alxart-sjv/AI_Medical_Scan_Analyzer) – AI tool for analyzing medical scans (MRI, X-Ray, CT)  
+- [🎥 Anomoly_CCTV](https://github.com/alxart-sjv/Anomoly_CCTV) – AI-powered anomaly detection in CCTV footage  
+- [🎥 Anomoly_CCTV_00.2](https://github.com/alxart-sjv/Anomoly_CCTV_00.2) – Improved version of the CCTV anomaly detection system  
 
 ---
 
