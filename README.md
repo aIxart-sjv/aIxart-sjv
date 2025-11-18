@@ -21,6 +21,7 @@
 - [🎥 FaceRecognition_CCTV_Web](https://github.com/aIxart-sjv/FaceRecognition_CCTV_Web) – Face recognition system through Web for CCTV footage
 - [🧠 AI Medical Scan Analyzer](https://github.com/aIxart-sjv/AI_Medical_Scan_Analyzer) – AI tool for analyzing medical scans (MRI, X-Ray, CT)
 - [🎥 Anomoly_CCTV](https://github.com/aIxart-sjv/Anomoly_CCTV) – AI-powered anomaly detection in CCTV footage
+- [🎥 Anomoly_CCTV_00.2](https://github.com/aIxart-sjv/Anomoly_CCTV_00.2) – Improved version of the CCTV anomaly detection system
 
 ---
 
