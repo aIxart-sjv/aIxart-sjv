@@ -19,7 +19,7 @@
 
 - [🔍 Phishing Email Detector](https://github.com/aIxart-sjv/PhishingEmailDetector) – ML-based tool to detect phishing emails
 - [🎥 Face Recognition CCTV](https://github.com/aIxart-sjv/FaceRecognition_CCTV) – Face recognition system for CCTV footage
-- [🎥 FaceRecognition_CCTV_Web]((https://github.com/aIxart-sjv/Anomoly_CCTV_00.2)) – Face recognition system through Web for CCTV footage
+- [🎥 Anomoly_CCTV_00.2]((https://github.com/aIxart-sjv/Anomoly_CCTV_00.2)) – Face recognition system through Web for CCTV footage
 
 ---
 
