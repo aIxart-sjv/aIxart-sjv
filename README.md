@@ -17,12 +17,12 @@
 
 ## 📂 Featured Projects  
 
-- [🔍 Phishing Email Detector](https://github.com/alxart-sjv/PhishingEmailDetector) – ML-based tool to detect phishing emails  
-- [🎥 Face Recognition CCTV](https://github.com/alxart-sjv/FaceRecognition_CCTV) – Face recognition system for CCTV footage  
-- [🌐 FaceRecognition_CCTV_Web](https://github.com/alxart-sjv/FaceRecognition_CCTV_Web) – Web-based face recognition system for CCTV  
-- [🧠 AI Medical Scan Analyzer](https://github.com/alxart-sjv/AI_Medical_Scan_Analyzer) – AI tool for analyzing medical scans (MRI, X-Ray, CT)  
-- [🎥 Anomoly_CCTV](https://github.com/alxart-sjv/Anomoly_CCTV) – AI-powered anomaly detection in CCTV footage  
-- [🎥 Anomoly_CCTV_00.2](https://github.com/alxart-sjv/Anomoly_CCTV_00.2) – Improved version of the CCTV anomaly detection system  
+- [🔍 Phishing Email Detector]((https://github.com/alxart-sjv/PhishingEmailDetector)) – ML-based tool to detect phishing emails  
+- [🎥 Face Recognition CCTV]((https://github.com/alxart-sjv/FaceRecognition_CCTV)) – Face recognition system for CCTV footage  
+- [🌐 FaceRecognition_CCTV_Web]((https://github.com/alxart-sjv/FaceRecognition_CCTV_Web)) – Web-based face recognition system for CCTV  
+- [🧠 AI Medical Scan Analyzer]((https://github.com/alxart-sjv/AI_Medical_Scan_Analyzer)) – AI tool for analyzing medical scans (MRI, X-Ray, CT)  
+- [🎥 Anomoly_CCTV]((https://github.com/alxart-sjv/Anomoly_CCTV)) – AI-powered anomaly detection in CCTV footage  
+- [🎥 Anomoly_CCTV_00.2]((https://github.com/alxart-sjv/Anomoly_CCTV_00.2)) – Improved version of the CCTV anomaly detection system  
 
 ---
 
