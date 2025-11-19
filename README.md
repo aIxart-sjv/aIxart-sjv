@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Sitti Jaivardhan  
+# 👋 Hi, I'm Sitti Jaivardhan 
+
+- [🌐 Visit my Portfolio](https://aixart-sjv.github.io)
 
 ## 👨‍💻 About Me  
 - 🎓 Currently pursuing **Artificial Intelligence & Machine Learning** (AIML, 3rd semester)  
