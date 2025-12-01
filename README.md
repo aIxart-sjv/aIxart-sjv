@@ -28,8 +28,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aIxart-sjv&theme=tokyonight&margin-w=10&margin-h=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=aIxart-sjv&theme=tokyonight&hide_border=false)
+![](https://komarev.com/ghpvc/?username=aIxart-sjv&color=blueviolet)
+
 
 ---
 
