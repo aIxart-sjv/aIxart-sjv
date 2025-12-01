@@ -28,9 +28,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=default&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&hide_border=true)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=blueberry)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=blueberry)
+![Streak](https://streak-stats.demolab.com?user=aIxart-sjv&theme=blueberry)
 
 
 
