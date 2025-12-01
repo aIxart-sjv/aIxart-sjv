@@ -29,11 +29,11 @@
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=blueberry)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=blueberry)
-![Streak](https://streak-stats.demolab.com?user=aIxart-sjv&theme=blueberry)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aIxart-sjv&theme=midnight-purple&hide_border=true" />
+</p>
 
 ---
 
