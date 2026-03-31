@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sitti Jaivardhan 
+# Sitti Jaivardhan here eee 
 
 - [🌐 Visit my Portfolio](https://aixart-sjv.github.io)
 
