@@ -1,142 +1,179 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sitti Jaivardhan
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:4c1d95,100:7c3aed&text=Sitti%20Jaivardhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Cybersecurity+Researcher;Open+Source+Developer;Building+Intelligent+Systems;Arch+Linux+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Cybersecurity+Research;Autonomous+Systems;Network+Security;Open+Source+Developer" />
 </p>
 
 <p align="center">
   <a href="https://aixart-sjv.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox-browser" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aIxart-sjv&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=aIxart-sjv&style=for-the-badge&color=7c3aed" />
 </p>
 
 ---
 
-## 🚀 About Me
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" align="right" width="340"/>
+
+## Profile
 
 ```yaml
 Name: Sitti Jaivardhan
-Degree: B.E CSE (AI & ML)
-College: Chennai Institute of Technology
 
-Interests:
+Education:
+  Degree: B.E Computer Science (AI & ML)
+  Institute: Chennai Institute of Technology
+
+Research Areas:
   - Artificial Intelligence
   - Cybersecurity
   - Reinforcement Learning
-  - Computer Vision
-  - Autonomous Systems
   - Network Security
+  - Computer Vision
 
-Current Focus:
-  - AI-Powered Cyber Defense
-  - Network Intrusion Detection
-  - Local AI Assistants
-  - Research & Open Source
+Current Work:
+  - Autonomous Cyber Defense
+  - AI-Powered Security Systems
+  - Local AI Agents
+  - Explainable Machine Learning
 ```
 
----
-
-## ⚡ Current Projects
-
-### 🛡️ SONAR
-
-AI-powered Network Intrusion Detection System built using Machine Learning and modern visualization tools.
-
-### 🤖 F.R.I.D.A.Y
-
-Personal AI Assistant featuring:
-
-* Local LLMs
-* Speech-to-Text
-* Text-to-Speech
-* Voice Commands
-* Desktop Automation
-
-### 🌐 Renkei
-
-AI-Powered Innovation Platform for collaborative idea generation and project development.
-
-### 📡 Hybrid Network Congestion Framework
-
-Predictive congestion analysis using Explainable AI, Mininet and Machine Learning.
-
-### 🎭 Adaptive Cyber Deception Framework
-
-Intent-Aware Reinforcement Learning for Autonomous Cyber Defense.
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Active Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,nodejs,fastapi,django,postgresql,mysql,git,github,linux,arch,vscode,electron,docker,cloudflare,latex,c,cpp,java,kotlin,figma" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### SONAR
 
-## 🔬 Areas of Interest
+Machine Learning based Network Intrusion Detection System
 
-* Artificial Intelligence
-* Machine Learning
-* Cybersecurity
-* Computer Vision
+* CICIDS2017
+* XGBoost
+* Explainable Security Analytics
+* Interactive Dashboard
+
+</td>
+
+<td width="50%">
+
+### F.R.I.D.A.Y
+
+Local AI Assistant
+
+* Ollama
+* Faster Whisper
+* Kokoro TTS
+* Electron + React
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Renkei
+
+AI-Powered Innovation Platform
+
+* Next.js
+* FastAPI
+* PostgreSQL
+* Real-time Collaboration
+
+</td>
+
+<td width="50%">
+
+### Adaptive Cyber Deception
+
+Research Project
+
 * Reinforcement Learning
-* Large Language Models
-* Network Security
-* Explainable AI
-* Open Source Development
+* Honeypots
+* Honeytokens
+* Attacker Profiling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## Technology Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aIxart-sjv&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,django,postgresql,mysql,electron,linux,arch,git,github,docker,c,cpp,java,kotlin,latex,vscode,figma&perline=11" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aIxart-sjv&theme=tokyonight&no-frame=true&row=2&column=4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aIxart-sjv&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIxart-sjv&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="65%" src="https://streak-stats.demolab.com?user=aIxart-sjv&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aIxart-sjv&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aIxart-sjv&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=aIxart-sjv&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-## 🎯 Philosophy
+## Development Activity
 
-> Build. Break. Learn. Improve. Repeat.
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aIxart-sjv&theme=tokyonight"/>
+</p>
 
-I enjoy creating intelligent systems that solve real-world problems, from AI assistants and computer vision applications to cybersecurity tools and autonomous defense frameworks.
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aIxart-sjv&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aIxart-sjv&theme=tokyonight"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Quote
+
+<p align="center">
+<i>
+Build systems. Break assumptions. Understand everything.
+</i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8b5cf6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:4c1d95,100:7c3aed"/>
 </p>
