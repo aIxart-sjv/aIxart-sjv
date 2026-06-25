@@ -343,17 +343,6 @@ flowchart TD
 
 ---
 
-## <img src="https://img.shields.io/badge/10-Achievements-7c3aed?style=flat-square"/> TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aIxart-sjv&theme=tokyonight&no-frame=true&column=4&row=2" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212758332-8f5d0dbe-97f9-4d77-88a0-8754c8bfe1c4.gif" width="550" alt="glowing terminal" />
-</p>
-
----
 
 ## <img src="https://img.shields.io/badge/11-Timeline-7c3aed?style=flat-square"/> ROADMAP
 
@@ -364,26 +353,6 @@ flowchart TD
 2026  -> RL Cyber Deception and stronger publication work
 Future -> Autonomous cyber defense systems
 ```
-
----
-
-## <img src="https://img.shields.io/badge/12-Pacman%20Mode-7c3aed?style=flat-square"/> CONTRIBUTION PACMAN
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-1e4b0b72-f25d-4f42-bf67-f6f1f4f2d5f4.gif" width="420" alt="typing gif" />
-</p>
-
----
-
-## <img src="https://img.shields.io/badge/13-Contribution%20Snake-7c3aed?style=flat-square"/> SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
