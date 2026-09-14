@@ -1,785 +1,806 @@
-<!-- ============================================================ -->
-<!--  01 / COVER                                                 -->
-<!-- ============================================================ -->
-
-<p align="center">
-  <img alt="AIXART — Volume 01, The Engineer" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0a0a0a,72:141414,100:c1121f&text=AIXART&fontSize=96&fontColor=f4f1ec&fontAlignY=46&desc=VOLUME%2001%20%E2%80%94%20THE%20ENGINEER&descAlignY=70&descSize=15&animation=fadeIn" width="100%" />
-</p>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-```
-   ███████████████████████████████████████████
-   ██                                       ██
-   ██   S O F T W A R E                     ██
-   ██   A I                                 ██
-   ██   S E C U R I T Y                     ██
-   ██   S Y S T E M S                       ██
-   ██   R E S E A R C H                     ██
-   ██                                       ██
-   ███████████████████████████████████████████
-
-   ████▓▓▓▓▒▒▒▒░░░░                        ░░░
-```
-
-</td>
-<td width="38%" valign="top" align="right">
-
-<h3>CHAPTER 01</h3>
-
-<sub>SITTI JAIVARDHAN</sub><br>
-<sub>INDIA</sub><br>
-<sub>STATUS — BUILDING</sub>
-
-<br>
-
-<sub><b>READ ↓</b></sub>
-
-</td>
-</tr>
-</table>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 01 — COVER                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <br>
 
 ```
-░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓███████████████████████████████▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░░░░
+ ██████  ████████ ██    ██  ██████  ███████  ████████
+██    ██    ██     ██  ██  ██    ██ ██    ██    ██
+████████    ██      ████   ████████ ███████     ██
+██    ██    ██     ██  ██  ██    ██ ██   ██     ██
+██    ██ ████████ ██    ██ ██    ██ ██    ██    ██
 ```
-
-<br><br>
-
-<!-- ============================================================ -->
-<!--  02 / PROLOGUE                                               -->
-<!-- ============================================================ -->
-
-<sub><b>02 / PROLOGUE</b></sub>
-
-<table>
-<tr>
-<td colspan="3" align="center">
-
-<br>
-<h1>I BUILD SYSTEMS TO UNDERSTAND<br>WHAT HAPPENS WHEN THEY BREAK.</h1>
-<br>
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center"><h2>IDEA</h2><sub>a question worth the compute</sub></td>
-<td width="33%" align="center"><h2>BUILD</h2><sub>make it run, then make it honest</sub></td>
-<td width="34%" align="center"><h2>BREAK</h2><sub>find the edge on purpose</sub></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><h2>OBSERVE</h2><sub>measure what happened, not what was expected</sub></td>
-<td align="center"><h2>REBUILD</h2><sub>again</sub></td>
-</tr>
-</table>
 
 <p align="right">
-  <sub><i>— if it cannot be explained, measured, or reproduced, it is not finished.</i></sub>
+  <b>VOLUME 01</b><br>
+  <sub>THE ENGINEER</sub>
 </p>
 
 <br>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▒▒░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓███████▓▓▓▒▒░░░░
+░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓███████████████▀▀▀▀███▓▓▒▒░░░
+░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓███████████████▀▀▀▀▀▀▀▀          ██▓▒▒░
+░░░░░░░░▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓███████████████▀▀▀▀                        ██▓▒▒░
+░░░░▒▒▒▒▒▒▓▓▓▓▓███████████████▀▀▀▀                            ▄▄▄███▓▒▒░
+░░▒▒▒▒▓▓▓▓████████████▀▀▀▀                          ▄▄▄▄██████████▓▓▒▒░░
+░░▒▒▓▓▓█████████▀▀▀▀                     ▄▄▄▄████████████████▓▓▓▒▒▒░░░░░
+░░▒▒▓▓████▀▀▀▀                 ▄▄▄▄███████████████▓▓▓▓▓▓▒▒▒▒▒░░░░░░░░░░░
+░░▒▒▓▓█▀                ▄▄▄███████████▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░
+░░░▒▒▒           ▄▄███████████▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░     ▄████████▓▓▓▓▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<br>
+
+SOFTWARE
+
+AI
+
+SECURITY
+
+SYSTEMS
+
+RESEARCH
+
+<br><br>
+
+<p align="right"><sub>SITTI JAIVARDHAN &nbsp;·&nbsp; INDIA &nbsp;·&nbsp; READ ↓</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 02 — PROLOGUE                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>02 / PROLOGUE</sub>
+
+<br><br>
+
+# I BUILD SYSTEMS<br>TO UNDERSTAND<br>WHAT HAPPENS<br>WHEN THEY BREAK.
+
+<br><br><br><br>
+
+# IDEA
+
+<p><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</sub></p>
+
+<br>
+
+<h1 align="center">BUILD</h1>
+
+<p align="center"><sub>↓</sub></p>
+
+<br>
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BREAK</h2>
+
+<p align="right"><sub>↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></p>
+
+<br>
+
+<h1 align="right">OBSERVE</h1>
+
+<p align="center"><sub>↓</sub></p>
+
+<br>
+
+<h1 align="center">REBUILD</h1>
+
+<br><br><br>
+
+> if it cannot be explained, measured, or reproduced, it is not finished.
+
+<br><br>
+
+<p align="right"><sub>— 02 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 03 — AUTHOR                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>03 / AUTHOR</sub>
+
+<br>
+
+# SITTI JAIVARDHAN
+
+<br><br>
+
+```
+                        ▄▄████████████▄▄
+                    ▄████████████████████▄
+                  ▄███▀▀              ▀▀███▄
+                 ███▀                     ▀███
+                ███                         ███
+               ███      ▄▄▄▄       ▄▄▄▄      ███
+               ██     ████████   ████████     ██
+               ██      ▀▀▀▀▀▀     ▀▀▀▀▀▀      ██
+               ██                             ██
+               ███             ▄              ███
+                ███        ▀▀▀▀▀▀▀▀▀         ███
+                 ████▄                    ▄████
+                   ▀█████▄▄          ▄▄█████▀
+        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ▀████████████████▀ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ▀▀████████▀▀ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+   ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░
+ ░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░
+░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░
 ```
 
 <br><br>
 
-<!-- ============================================================ -->
-<!--  03 / AUTHOR                                                 -->
-<!-- ============================================================ -->
+### AI ENGINEER
 
-<sub><b>03 / AUTHOR</b></sub>
+### CYBERSECURITY RESEARCHER
 
-<h1>SITTI JAIVARDHAN</h1>
+### OPEN SOURCE DEVELOPER
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<br><br><br>
 
-```
-            ▄▄███████████▄▄
-         ▄██████████████████▄
-       ▄███▀▀             ▀▀███▄
-      ███▀                   ▀███
-     ███     ▄▄▄       ▄▄▄     ███
-     ██     █████     █████     ██
-     ██      ▀▀▀       ▀▀▀      ██
-     ███            ▄          ███
-      ███        ▀▀▀▀▀▀▀      ███
-       ███▄                 ▄███
-        ▀████▄▄         ▄▄████▀
-     ▒▒▒▒▒ ▀████████████████▀ ▒▒▒▒▒
-   ▒▒▒▒▒▒▒▒▒▒▒ ▀▀██████▀▀ ▒▒▒▒▒▒▒▒▒▒▒
-  ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒▒▒▒▒▒▒░░
- ░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░
-```
+<p align="right">ARTIFICIAL INTELLIGENCE</p>
 
-</td>
-<td width="45%" valign="top">
+<p align="right">CYBERSECURITY</p>
 
-<br>
+<p align="right">REINFORCEMENT LEARNING</p>
 
-**ROLES**
+<p align="right">NETWORK DEFENSE</p>
 
-```
-AI ENGINEER
-CYBERSECURITY RESEARCHER
-OPEN SOURCE DEVELOPER
-```
-
-**INTERESTS**
-
-```
-ARTIFICIAL INTELLIGENCE
-CYBERSECURITY
-REINFORCEMENT LEARNING
-NETWORK DEFENSE
-EXPLAINABLE AI
-```
-
-**ENVIRONMENT**
-
-```
-ARCH LINUX · HYPRLAND · FISH
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<sub><b>ANNOTATION —</b> AIML student. Learning security by building things that watch other things.</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓███████████████████████████████▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░░░░
-```
+<p align="right">EXPLAINABLE AI</p>
 
 <br><br>
 
-<!-- ============================================================ -->
-<!--  04 / THE WORK                                               -->
-<!-- ============================================================ -->
-
-<sub><b>04 / THE WORK</b></sub>
-
-<h1>THE WORK</h1>
+<sub>ARCH LINUX &nbsp;·&nbsp; HYPRLAND &nbsp;·&nbsp; FISH</sub>
 
 <br>
 
-<!-- ---------- 01 · 24FPS · full-width splash ---------- -->
-
-<table>
-<tr>
-<td>
-
-<h6>01</h6>
-<h1>24FPS</h1>
-<h4>FORENSIC VIDEO ANALYSIS</h4>
-
-```
-┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
-│ ▓▓▓▓ │ ▓▓▒▒ │ ▒▒▒▒ │ ▒░░░ │ ░░░░ │ ░▒▒▒ │ ▒▒▓▓ │ ▓▓▓▓ │
-│ ▓▓▓▓ │ ▓▒▒▒ │ ▒▒▒░ │ ░░░░ │ ░░▒▒ │ ▒▒▒▓ │ ▓▓▓▓ │ ▓▓▓▓ │
-└──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
-  00:00  00:04  00:08  00:12  00:16  00:20  00:24  00:28
-  ────────────────────────────●─────────────────────────
-                        RECOVERED SEGMENT
-```
-
-Forensic evidence analysis across multi-vendor CCTV DVR and NVR systems —
-vendor storage layouts, timeline reconstruction, evidence integrity.
-
-<sub>SCOPE — CP PLUS · HIKVISION</sub><br>
-<sub>STATUS — IN DEVELOPMENT</sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- 02 · KATANA · narrow + wide ---------- -->
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<h6>02</h6>
-<h1>KATANA</h1>
-<h5>KERNEL<br>ANOMALY<br>TRACKING,<br>ANALYSIS &<br>NEURAL<br>ASSISTANT</h5>
-
-<sub>WRITTEN IN C</sub>
-
-</td>
-<td width="70%" valign="top">
-
-```
-  systemd
-   ├── sshd
-   │    └── bash
-   │         └── ????            ← flagged
-   ├── nginx
-   │    ├── worker
-   │    └── worker
-   └── dockerd
-        └── containerd
-             └── shim ───────────→ observed
-  ─────────────────────────────────────────────
-  detect  →  summarise  →  suggest command
-```
-
-Detects suspicious activity on the host, summarises what it saw, and
-proposes the commands to act on it.
-
-<a href="https://github.com/aIxart-sjv/KATANA"><sub><b>GITHUB →</b></sub></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- 03 · JESTER · inset panel ---------- -->
-
-<table>
-<tr>
-<td width="66%" valign="top">
-
-<h6>03</h6>
-<h1>JESTER</h1>
-<h4>ADVERSARIAL / ADAPTIVE / DECEPTIVE</h4>
-
-Intent-aware reinforcement learning based adaptive cyber deception for
-autonomous cyber defense.
-
-<a href="https://github.com/aIxart-sjv/JESTER"><sub><b>GITHUB →</b></sub></a>
-
-</td>
-<td width="34%" valign="top" align="center">
-
-<br>
-
-```
-  ATTACKER
-     │
-     ▼
- ┌─────────┐
- │ OBSERVE │
- └────┬────┘
-      ▼
-   INTENT?
-      │
- ┌────▼────┐
- │ DECEIVE │
- └────┬────┘
-      ▼
-   ADAPT ──┐
-      ▲    │
-      └────┘
-```
-
-<img alt="Status: under development" src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-c1121f?style=flat-square&labelColor=0a0a0a" />
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- 04 · SONAR · wide horizontal ---------- -->
-
-<table>
-<tr>
-<td align="center">
-
-<h6>04</h6>
-<h1>S O N A R</h1>
-<h4>NETWORK INTRUSION RADAR</h4>
-
-```
-              ·           ·                 ·
-        ·          ╱│                 ·
-                 ╱  │   ·                        ·
-     ·         ╱    │              ·
-             ╱      │      ·               ·
-      ·    ╱        │                ·
-         ╱          │   ·                     ·
-   ────●─────────────────────────────────────────
-         UNSUPERVISED ANOMALY DETECTION
-```
-
-An AI-driven network intrusion radar for smart city infrastructure,
-using unsupervised anomaly detection.
-
-<a href="https://github.com/aIxart-sjv/SONAR"><sub><b>GITHUB →</b></sub></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- 05 · DOOM · dark splash ---------- -->
-
-<table>
-<tr>
-<td width="45%" valign="top" align="center">
-
-```
-        ░░▒▒▒▓▓▓▓▓▒▒▒░░
-     ░▒▒▓▓███████████▓▓▒▒░
-   ░▒▓███▀▀         ▀▀███▓▒░
-  ░▒██▀                 ▀██▒░
- ░▒█▀      ▄▄█████▄▄      ▀█▒░
- ▒█▀     ▄███████████▄     ▀█▒
- ▒█     ████         ████    █▒
- ▒█     ███           ███    █▒
- ▒█▄     ▀███████████▀     ▄█▒
- ░▒█▄      ▀▀█████▀▀      ▄█▒░
-  ░▒██▄                 ▄██▒░
-   ░▒▓███▄▄         ▄▄███▓▒░
-     ░▒▒▓▓███████████▓▓▒▒░
-        ░░▒▒▒▓▓▓▓▓▒▒▒░░
-```
-
-</td>
-<td width="55%" valign="top">
-
-<h6>05</h6>
-<h1>DOOM</h1>
-<h4>BLACKHOLE SIMULATION</h4>
-
-<br>
-
-Gravitational distortion, rendered procedurally.
-
-```
-GLSL
-```
-
-<a href="https://github.com/aIxart-sjv/DOOM"><sub><b>GITHUB →</b></sub></a>
-
-</td>
-</tr>
-</table>
-
-<!-- ---------- 06 · ARCHIVE ---------- -->
-
-<table>
-<tr>
-<td>
-
-<h6>06</h6>
-<h4>ARCHIVE / OLDER WORK</h4>
-
-<sub>
-<a href="https://github.com/aIxart-sjv/Renkei"><b>RENKEI</b></a> — AI-powered campus innovation and engagement platform connecting students, alumni, mentors and investors through matchmaking and analytics.
-</sub>
-
-<sub>
-<b>F.R.I.D.A.Y</b> · <b>HYBRID NETWORK CONGESTION FRAMEWORK</b> — earlier builds, kept for history.
-</sub>
-
-<br>
-
-<a href="https://github.com/aIxart-sjv?tab=repositories"><sub><b>ALL REPOSITORIES →</b></sub></a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+> AIML student. Learning security by building things that watch other things.
 
 <br><br>
 
-<!-- ============================================================ -->
-<!--  05 / RESEARCH                                               -->
-<!-- ============================================================ -->
+<p align="right"><sub>— 03 —</sub></p>
 
-<sub><b>05 / RESEARCH</b></sub>
+<br><br><br>
 
-<h1>THE INVESTIGATION</h1>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br><br><br>
 
-<h3>JESTER</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 04 — THE WORK                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>04 / THE WORK</sub>
+
+<br><br>
+
+<h1 align="center">T H E &nbsp; W O R K</h1>
+
+<br><br><br><br>
+
+<sub>01</sub>
+
+# 24FPS
+
+### FORENSIC VIDEO ANALYSIS
+
+<br>
+
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ ▓▓▓▓ │ ▓▓▒▒ │ ▒▒▒▒ │ ▒░░░ │ ░░░░ │ ░▒▒▒ │ ▒▒▓▓ │ ▓▓▓▓ │ ▓▓▓▓ │ ▓▒▒▒ │
+│ ▓▓▓▓ │ ▓▒▒▒ │ ▒▒▒░ │ ░░░░ │ ░░▒▒ │ ▒▒▒▓ │ ▓▓▓▓ │ ▓▓▓▓ │ ▓▓▒▒ │ ▒▒░░ │
+└──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+ 00:00  00:04  00:08  00:12  00:16  00:20  00:24  00:28  00:32  00:36
+
+ ───────────────────────────────●──────────────────────────────────────
+                          recovered segment
+```
+
+<br>
+
+Forensic evidence analysis across multi-vendor CCTV DVR and NVR systems.
+Vendor storage layouts, timeline reconstruction, evidence integrity.
+
+<br>
+
+<p align="right"><sub>SCOPE &nbsp;—&nbsp; CP PLUS · HIKVISION</sub></p>
+<p align="right"><sub>STATUS &nbsp;—&nbsp; IN DEVELOPMENT</sub></p>
+
+<br><br><br><br><br><br>
+
+<p align="center"><sub>02</sub></p>
+
+<h2 align="center">KATANA</h2>
+
+<p align="center"><sub>SYSTEM OBSERVATION</sub></p>
+
+<br>
+
+```
+                            systemd
+                               │
+                ┌──────────────┼──────────────┐
+                │              │              │
+              sshd          nginx         dockerd
+                │              │              │
+              bash        ┌────┴────┐    containerd
+                │       worker   worker       │
+              ????                           shim
+                │                             │
+             flagged                       observed
+                │                             │
+                └──────────────┬──────────────┘
+                               ▼
+                    detect · summarise · suggest
+```
+
+<br>
+
+<p align="center">Kernel Anomaly Tracking, Analysis &amp; Neural Assistant.<br>
+Detects suspicious activity, summarises it, proposes the command.</p>
+
+<p align="center"><sub>C &nbsp;·&nbsp; <a href="https://github.com/aIxart-sjv/KATANA">GITHUB →</a></sub></p>
+
+<br><br><br><br><br><br>
+
+<p align="right"><sub>03</sub></p>
+
+<h1 align="right">JESTER</h1>
+
+<br>
+
+ADVERSARIAL
+
+<p align="center">ADAPTIVE</p>
+
+<p align="right">DECEPTIVE</p>
+
+<br><br>
+
+```
+     attacker ──────────────►  environment
+        ▲                            │
+        │                            ▼
+        │                       observation
+        │                            │
+        │                            ▼
+        │                      intent estimate
+        │                            │
+        │                            ▼
+        └──────── deception ◄──── policy
+```
+
+<br>
+
+Intent-aware reinforcement learning based adaptive cyber deception
+for autonomous cyber defense.
+
+<br>
+
+<img alt="Status: under development" src="https://img.shields.io/badge/-UNDER%20DEVELOPMENT-c1121f?style=flat-square&labelColor=0a0a0a" />
+
+<p><sub><a href="https://github.com/aIxart-sjv/JESTER">GITHUB →</a></sub></p>
+
+<br><br><br><br><br><br>
+
+<sub>04</sub>
+
+<h1 align="center">S &nbsp;O &nbsp;N &nbsp;A &nbsp;R</h1>
+
+<br>
+
+```
+                    ·                       ·              ·
+        ·                    ╱│                     ·
+                ·          ╱  │        ·                      ·
+     ·                   ╱    │                 ·
+             ·         ╱      │   ·                    ·
+                     ╱        │              ·                     ·
+       ·           ╱          │      ·                  ·
+                 ╱            │                  ·
+   ·           ╱              │         ·                    ·
+            ╱                 │                   ·
+   ──────●───────────────────────────────────────────────────────────
+                 ░░▒▒▓▓  unsupervised anomaly detection  ▓▓▒▒░░
+```
+
+<br>
+
+<p align="center">An AI-driven network intrusion radar for smart city<br>
+infrastructure, using unsupervised anomaly detection.</p>
+
+<p align="center"><sub><a href="https://github.com/aIxart-sjv/SONAR">GITHUB →</a></sub></p>
+
+<br><br><br><br><br><br><br><br>
+
+<p align="right"><sub>05</sub></p>
+
+<br>
+
+```
+                         ░░░▒▒▒▓▓▓▓▓▓▓▒▒▒░░░
+                    ░░▒▒▓▓██████████████████▓▓▒▒░░
+                ░▒▓▓████████▀▀▀▀▀▀▀▀▀▀████████▓▓▒░
+             ░▒▓███████▀▀                    ▀▀███████▓▒░
+           ░▒████▀▀            ▄▄▄▄▄▄            ▀▀████▒░
+         ░▒███▀           ▄▄████████████▄▄           ▀███▒░
+        ░▒██▀          ▄████████████████████▄          ▀██▒░
+       ░▒██         ▄█████▀▀            ▀▀█████▄         ██▒░
+      ░▒██        ▄████▀                      ▀████▄       ██▒░
+      ▒██        ████▀                          ▀████       ██▒
+      ▒█        ████                              ████        █▒
+      ▒█        ███                                ███        █▒
+      ▒██        ████                            ████        ██▒
+      ░▒██        ▀████▄                      ▄████▀       ██▒░
+       ░▒██         ▀█████▄▄            ▄▄█████▀         ██▒░
+        ░▒██▀          ▀████████████████████▀          ▀██▒░
+         ░▒███▄           ▀▀████████████▀▀           ▄███▒░
+           ░▒████▄▄            ▀▀▀▀▀▀            ▄▄████▒░
+             ░▒▓███████▄▄                    ▄▄███████▓▒░
+                ░▒▓▓████████▄▄▄▄▄▄▄▄▄▄████████▓▓▒░
+                    ░░▒▒▓▓██████████████████▓▓▒▒░░
+                         ░░░▒▒▒▓▓▓▓▓▓▓▒▒▒░░░
+```
+
+<h1 align="right">DOOM</h1>
+
+<p align="right">BLACKHOLE SIMULATION</p>
+
+<p align="right"><sub>GLSL &nbsp;·&nbsp; <a href="https://github.com/aIxart-sjv/DOOM">GITHUB →</a></sub></p>
+
+<br><br><br><br>
+
+<sub>ARCHIVE / OLDER WORK</sub>
+
+<sub><a href="https://github.com/aIxart-sjv/Renkei">RENKEI</a> — AI-powered campus innovation and engagement platform connecting students, alumni, mentors and investors.</sub>
+
+<sub>F.R.I.D.A.Y &nbsp;·&nbsp; HYBRID NETWORK CONGESTION FRAMEWORK — earlier builds, kept for history.</sub>
+
+<sub><a href="https://github.com/aIxart-sjv?tab=repositories">ALL REPOSITORIES →</a></sub>
+
+<br><br>
+
+<p align="right"><sub>— 04 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 05 — RESEARCH                                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>05 / RESEARCH</sub>
+
+<br><br>
+
+# THE INVESTIGATION
+
+<br><br><br>
+
+## JESTER
+
 <sub>INTENT-AWARE RL · ADAPTIVE CYBER DECEPTION</sub>
 
-```
- attacker behaviour
-        │
-        ▼
- ┌──────────────┐
- │  observation │
- └──────┬───────┘
-        ▼
-   intent estimate
-        │
-        ▼
- ┌──────────────┐
- │    policy    │
- └──────┬───────┘
-        ▼
-  deception action
-        │
-        └──── feedback ──┐
-                         │
-        ◄────────────────┘
-```
-
-<img alt="Status: under development" src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-c1121f?style=flat-square&labelColor=0a0a0a" />
-
-</td>
-<td width="50%" valign="top">
-
-<h3>label-noise-ids</h3>
-<sub>ROBUSTNESS UNDER NOISY LABELS</sub>
+<br>
 
 ```
- clean labels        noisy labels
-      │                    │
-      ▼                    ▼
- ┌─────────┐          ┌─────────┐
- │  train  │          │  train  │
- └────┬────┘          └────┬────┘
-      ▼                    ▼
-   evaluate  ◄──── Δ ────► evaluate
-      │                    │
-      └─────► robustness ◄─┘
+      attacker behaviour
+              │
+              ▼
+        observation
+              │
+              ▼
+       intent estimate
+              │
+              ▼
+           policy
+              │
+              ▼
+      deception action
+              │
+              └────── feedback ──────┐
+                                     │
+      ◄──────────────────────────────┘
 ```
 
-A robustness evaluation framework for noisy-label intrusion detection.
+<br>
 
-<a href="https://github.com/aIxart-sjv/label-noise-ids"><sub><b>GITHUB →</b></sub></a>
+<img alt="Status: under development" src="https://img.shields.io/badge/-UNDER%20DEVELOPMENT-c1121f?style=flat-square&labelColor=0a0a0a" />
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<br><br><br><br><br><br>
 
-<sub><b>OBSERVATION —</b> intrusion detection datasets are not as clean as the benchmarks assume. What a model learns from mislabelled traffic is a research question, not a footnote.</sub>
+<h2 align="right">label-noise-ids</h2>
 
-</td>
-</tr>
-</table>
+<p align="right"><sub>ROBUSTNESS UNDER NOISY LABELS</sub></p>
 
 <br>
 
 ```
-░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓███████████████████████████████▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░░░░
+        clean labels                        noisy labels
+              │                                   │
+              ▼                                   ▼
+            train                               train
+              │                                   │
+              ▼                                   ▼
+          evaluate ────────── Δ ────────────► evaluate
+              │                                   │
+              └──────────► robustness ◄───────────┘
 ```
-
-<br><br>
-
-<!-- ============================================================ -->
-<!--  06 / TOOLS                                                  -->
-<!-- ============================================================ -->
-
-<sub><b>06 / TOOLS</b></sub>
-
-<h1>THE TOOLKIT</h1>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4>LANGUAGES</h4>
-
-```
-PYTHON        TYPESCRIPT
-JAVASCRIPT    C
-C++           JAVA
-```
-
-<h4>SYSTEMS</h4>
-
-```
-LINUX (ARCH)      NETWORKING
-SECURITY          DOCKER
-```
-
-</td>
-<td width="50%" valign="top">
-
-<h4>AI / ML</h4>
-
-```
-PYTORCH           TENSORFLOW
-SCIKIT-LEARN      XGBOOST
-REINFORCEMENT LEARNING
-```
-
-<h4>WEB / BACKEND</h4>
-
-```
-FASTAPI           NEXT.JS
-REACT             POSTGRESQL
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="right">
-
-<sub><i>tools are not the story. what gets built with them is.</i></sub>
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<!-- ============================================================ -->
-<!--  07 / SYSTEMS                                                -->
-<!-- ============================================================ -->
-
-<sub><b>07 / SYSTEMS</b></sub>
-
-<h1>SYSTEM ANATOMY</h1>
-
-<table>
-<tr>
-<td colspan="2">
-
-<h4>SONAR — ANOMALY PATH</h4>
-
-```
-   network traffic
-         │
-         ▼
-   ┌───────────┐      ┌─────────────────────┐
-   │  capture  │─────►│ feature extraction  │
-   └───────────┘      └──────────┬──────────┘
-                                 ▼
-                     ┌───────────────────────┐
-                     │ unsupervised anomaly  │
-                     │      detection        │
-                     └───────────┬───────────┘
-                                 ▼
-                           anomaly score
-                                 │
-                                 ▼
-                              review
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>KATANA — HOST PATH</h4>
-
-```
-  kernel / process events
-            │
-            ▼
-      ┌───────────┐
-      │  tracking │
-      └─────┬─────┘
-            ▼
-      ┌───────────┐
-      │  analysis │
-      └─────┬─────┘
-            ▼
-        summary +
-    suggested command
-```
-
-</td>
-<td width="50%" valign="top">
-
-<h4>JESTER — DECEPTION LOOP</h4>
-
-```
-  ┌──────────────────────┐
-  │                      ▼
-attacker            environment
-  ▲                      │
-  │                      ▼
-deception  ◄──────── RL agent
-  layer                  │
-  │                      ▼
-  └────────────── intent estimate
-```
-
-</td>
-</tr>
-</table>
-
-<p align="right"><sub><b>ANNOTATION —</b> separate systems. They share a question, not a codebase.</sub></p>
 
 <br>
 
+<p align="right">A robustness evaluation framework<br>for noisy-label intrusion detection.</p>
+
+<p align="right"><sub><a href="https://github.com/aIxart-sjv/label-noise-ids">GITHUB →</a></sub></p>
+
+<br><br><br>
+
+> intrusion detection datasets are not as clean as the benchmarks assume.
+> what a model learns from mislabelled traffic is a research question,
+> not a footnote.
+
+<br><br>
+
+<p align="right"><sub>— 05 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 06 — TOOLS                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>06 / TOOLS</sub>
+
+<br><br>
+
+<h1 align="center">THE TOOLKIT</h1>
+
+<br><br><br>
+
+<sub>LANGUAGES</sub>
+
+# PYTHON
+
+## TYPESCRIPT
+
+<h3 align="right">JAVASCRIPT</h3>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; JAVA</p>
+
+<br><br><br>
+
+<p align="right"><sub>SYSTEMS</sub></p>
+
+<h1 align="right">LINUX</h1>
+
+<p align="right"><sub>ARCH</sub></p>
+
+<h3 align="center">NETWORKING</h3>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;SECURITY</h3>
+
+<p align="right">DOCKER</p>
+
+<br><br><br>
+
+<sub>AI / ML</sub>
+
+# PYTORCH
+
+<h2 align="center">REINFORCEMENT LEARNING</h2>
+
+<p align="right">TENSORFLOW &nbsp;&nbsp; XGBOOST &nbsp;&nbsp; SCIKIT-LEARN</p>
+
+<br><br><br>
+
+<p align="center"><sub>WEB / BACKEND</sub></p>
+
+<h2 align="center">FASTAPI</h2>
+
+<p align="center">NEXT.JS &nbsp;·&nbsp; REACT &nbsp;·&nbsp; POSTGRESQL</p>
+
+<br><br><br>
+
+> tools are not the story. what gets built with them is.
+
+<br><br>
+
+<p align="right"><sub>— 06 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 07 — SYSTEMS                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>07 / SYSTEMS</sub>
+
+<br><br>
+
+# SYSTEM ANATOMY
+
+<br><br><br>
+
+<sub>SONAR — ANOMALY PATH</sub>
+
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   NETWORK TRAFFIC
+           │
+           ▼
+   CAPTURE
+           │
+           ▼
+   FEATURE EXTRACTION
+           │
+           ▼
+   UNSUPERVISED ANOMALY DETECTION
+           │
+           ▼
+   ANOMALY SCORE
+           │
+           ▼
+   REVIEW
+```
+
+<br><br><br><br>
+
+<p align="right"><sub>KATANA — HOST PATH</sub></p>
+
+```
+                              KERNEL / PROCESS EVENTS
+                                          │
+                                          ▼
+                                     TRACKING
+                                          │
+                                          ▼
+                                     ANALYSIS
+                                          │
+                                          ▼
+                          SUMMARY  +  SUGGESTED COMMAND
+```
+
+<br><br><br><br>
+
+<p align="center"><sub>JESTER — DECEPTION LOOP</sub></p>
+
+```
+                ┌─────────────────────────────┐
+                │                             ▼
+            ATTACKER                    ENVIRONMENT
+                ▲                             │
+                │                             ▼
+          DECEPTION LAYER ◄──────────────  RL AGENT
+                │                             │
+                │                             ▼
+                └──────────────────  INTENT ESTIMATE
 ```
 
 <br><br>
 
-<!-- ============================================================ -->
-<!--  08 / DOSSIER                                                -->
-<!-- ============================================================ -->
+> separate systems. they share a question, not a codebase.
 
-<sub><b>08 / DOSSIER</b></sub>
+<br><br>
 
-<h1>FIELD NOTES</h1>
+<p align="right"><sub>— 07 —</sub></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br><br>
 
-<h6>ENTRY 01</h6>
-<b>SONAR</b>
+---
 
-<sub><b>OBSERVATION</b> — labelled attack data is scarce in real infrastructure.</sub><br>
-<sub><b>REVISION</b> — unsupervised anomaly detection instead of supervised classification.</sub><br>
-<sub><b>RESULT</b> — public, Python.</sub>
+<br><br><br><br>
 
-</td>
-<td width="50%" valign="top">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 08 — DOSSIER                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<h6>ENTRY 02</h6>
-<b>label-noise-ids</b>
+<sub>08 / DOSSIER</sub>
 
-<sub><b>OBSERVATION</b> — IDS benchmarks assume the labels are correct.</sub><br>
-<sub><b>REVISION</b> — build an evaluation framework that assumes they are not.</sub><br>
-<sub><b>RESULT</b> — public, Python.</sub>
+<br><br>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+# FIELD NOTES
 
-<h6>ENTRY 03</h6>
-<b>KATANA</b>
+<br><br><br>
 
-<sub><b>OBSERVATION</b> — detection alone does not tell an operator what to do next.</sub><br>
-<sub><b>REVISION</b> — detection, then summary, then a suggested command. Written in C.</sub><br>
-<sub><b>RESULT</b> — public.</sub>
+<sub>ENTRY 01</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## SONAR
 
-<h6>ENTRY 04</h6>
-<b>JESTER</b>
+<sub>OBSERVATION</sub> — labelled attack data is scarce in real infrastructure.
 
-<sub><b>OBSERVATION</b> — static defenses get modelled by attackers quickly.</sub><br>
-<sub><b>REVISION</b> — make the deception adaptive and intent-aware.</sub><br>
-<sub><b>RESULT</b> — under development.</sub>
+<sub>REVISION</sub> — unsupervised anomaly detection instead of supervised classification.
 
-</td>
-<td width="50%" valign="top">
+<sub>RESULT</sub> — public. python.
 
-<h6>ENTRY 05</h6>
-<b>DOOM</b>
+<br><br><br><br>
 
-<sub><b>OBSERVATION</b> — graphics work is a different muscle.</sub><br>
-<sub><b>REVISION</b> — blackhole simulation in GLSL.</sub><br>
-<sub><b>RESULT</b> — public.</sub>
+<p align="right"><sub>ENTRY 02</sub></p>
 
-</td>
-</tr>
-</table>
+<h2 align="right">label-noise-ids</h2>
 
-<br>
+<p align="right"><sub>OBSERVATION</sub> — IDS benchmarks assume the labels are correct.</p>
 
-<table>
-<tr>
-<td>
+<p align="right"><sub>REVISION</sub> — build an evaluation framework that assumes they are not.</p>
 
-<h4>CONTRIBUTION LOG</h4>
+<p align="right"><sub>RESULT</sub> — public. python.</p>
+
+<br><br><br><br>
+
+<sub>ENTRY 03</sub>
+
+## KATANA
+
+<sub>OBSERVATION</sub> — detection alone does not tell an operator what to do next.
+
+<sub>REVISION</sub> — detection, then summary, then a suggested command. written in C.
+
+<sub>RESULT</sub> — public.
+
+<br><br><br><br>
+
+<p align="center"><sub>ENTRY 04</sub></p>
+
+<h2 align="center">JESTER</h2>
+
+<p align="center"><sub>OBSERVATION</sub> — static defenses get modelled by attackers quickly.</p>
+
+<p align="center"><sub>REVISION</sub> — make the deception adaptive and intent-aware.</p>
+
+<p align="center"><sub>RESULT</sub> — under development.</p>
+
+<br><br><br><br>
+
+<p align="right"><sub>ENTRY 05</sub></p>
+
+<h2 align="right">DOOM</h2>
+
+<p align="right"><sub>OBSERVATION</sub> — graphics work is a different muscle.</p>
+
+<p align="right"><sub>REVISION</sub> — blackhole simulation in GLSL.</p>
+
+<p align="right"><sub>RESULT</sub> — public.</p>
+
+<br><br><br><br><br>
+
+<sub>CONTRIBUTION LOG</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution activity over the past year" src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="A year of contribution activity, drawn as a grid" src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<sub>one square per day of work.</sub>
+<p align="right"><sub>one square per day of work.</sub></p>
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<p align="right"><sub>— 08 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 09 — CURRENT CHAPTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>09 / CURRENT CHAPTER</sub>
+
+<br><br><br>
+
+# BUILDING
+
+<p><sub>24FPS &nbsp;·&nbsp; KATANA</sub></p>
+
+<br><br>
+
+<h2 align="right">RESEARCHING</h2>
+
+<p align="right"><sub>JESTER &nbsp;·&nbsp; label-noise-ids</sub></p>
+
+<br><br>
+
+<h3 align="center">EXPERIMENTING</h3>
+
+<p align="center"><sub>DOOM</sub></p>
+
+<br><br>
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IMPROVING</h2>
+
+<p><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SONAR</sub></p>
+
+<br><br><br>
+
+<p align="right"><sub>— 09 —</sub></p>
+
+<br><br><br>
+
+---
+
+<br><br><br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PAGE 10 — CONTACT / END                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<sub>10 / CONTACT</sub>
+
+<br><br><br><br><br>
+
+<h1 align="center">TO BE CONTINUED.</h1>
+
+<br><br><br><br><br>
+
+# AIXART
 
 <br>
+
+<sub>EMAIL</sub>
+
+<a href="mailto:sittijaivardhan@gmail.com">sittijaivardhan@gmail.com</a>
+
+<br>
+
+<sub>PORTFOLIO</sub>
+
+<a href="https://aixart.vercel.app/">aixart.vercel.app</a>
+
+<br>
+
+<sub>GITHUB</sub>
+
+<a href="https://github.com/aIxart-sjv">github.com/aIxart-sjv</a>
+
+<br>
+
+<sub>LINKEDIN</sub>
+
+<a href="https://www.linkedin.com/in/sitti-jaivardhan-90a8b3329/">linkedin.com/in/sitti-jaivardhan</a>
+
+<br>
+
+<sub>X</sub>
+
+<a href="https://x.com/_aIxart_sjv_/">@_aIxart_sjv_</a>
+
+<br><br><br><br><br>
 
 ```
-░░░░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓███████████████████████████████▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░░░░
+████████████████████████████████████████████████████████████████████████
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<br><br>
-
-<!-- ============================================================ -->
-<!--  09 / CURRENT CHAPTER                                        -->
-<!-- ============================================================ -->
-
-<sub><b>09 / CURRENT CHAPTER</b></sub>
-
-<table>
-<tr>
-<td width="50%" valign="top"><h4>BUILDING</h4><sub>24FPS · KATANA</sub></td>
-<td width="50%" valign="top"><h4>RESEARCHING</h4><sub>JESTER · label-noise-ids</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h4>EXPERIMENTING</h4><sub>DOOM</sub></td>
-<td width="50%" valign="top"><h4>IMPROVING</h4><sub>SONAR</sub></td>
-</tr>
-</table>
-
-<p align="center">
-  <img alt="The chapter is still being drawn." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=C1121F&center=true&vCenter=true&width=900&height=45&lines=THE+CHAPTER+IS+STILL+BEING+DRAWN." />
-</p>
+<h2 align="right">END OF CHAPTER ONE</h2>
 
 <br><br>
-
-<!-- ============================================================ -->
-<!--  10 / CONTACT                                                -->
-<!-- ============================================================ -->
-
-<sub><b>10 / CONTACT</b></sub>
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-<br><br>
-<h1>TO BE CONTINUED.</h1>
-<br>
-
-</td>
-</tr>
-<tr>
-<td width="45%" valign="top">
-
-<h4>AIXART</h4>
-
-<sub>SITTI JAIVARDHAN</sub>
-
-</td>
-<td width="55%" valign="top">
-
-<sub><b>EMAIL</b> — <a href="mailto:sittijaivardhan@gmail.com">sittijaivardhan@gmail.com</a></sub><br>
-<sub><b>PORTFOLIO</b> — <a href="https://aixart.vercel.app/">aixart.vercel.app</a></sub><br>
-<sub><b>GITHUB</b> — <a href="https://github.com/aIxart-sjv">@aIxart-sjv</a></sub><br>
-<sub><b>LINKEDIN</b> — <a href="https://www.linkedin.com/in/sitti-jaivardhan-90a8b3329/">sitti-jaivardhan</a></sub><br>
-<sub><b>X</b> — <a href="https://x.com/_aIxart_sjv_/">@_aIxart_sjv_</a></sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img alt="End of chapter one" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:c1121f,28:141414,100:0a0a0a&text=END%20OF%20CHAPTER%20ONE&fontSize=30&fontColor=f4f1ec&fontAlignY=52&animation=fadeIn" width="100%" />
-</p>
