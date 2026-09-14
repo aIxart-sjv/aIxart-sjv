@@ -111,7 +111,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=aIxart-sjv&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/aIxart-sjv/aIxart-sjv/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
